@@ -1,6 +1,6 @@
 # notes
 
-A new Flutter project.
+A new Flutter project. Notes is the basic note app made using Dart programming language and Flutter framework. Android Studio software is used for creating theapplication. This app is used to note down the schedule of the day.
 
 ## Getting Started
 
